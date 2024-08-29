@@ -14,16 +14,4 @@ The competition dataset comprises text passages that have been rewritten by the 
 
 Please note that this is a Code Competition. When your submission is scored, this example test data will be replaced with the full test set. Expect roughly 1,400 original texts in the test set.
 
-Files
-
-[train/test].csv
-
-id - A unique identifier for the row.
-original_text - The prompt the essay was written in response to.
-rewrite_prompt - The target column. The prompt provided to Gemma.
-rewritten_text - The output from Gemma.
-
-sample_submission.csv A submission file in the correct format.
-
-id
-rewrite_prompt
+https://www.kaggle.com/code/jackjai/llm-competition
